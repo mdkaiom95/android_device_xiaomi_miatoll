@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_miatoll.mk
+    $(LOCAL_DIR)/kangos_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_miatoll-user \
-    xtended_miatoll-userdebug \
-    xtended_miatoll-eng
+    kangos_miatoll-user \
+    kangos_miatoll-userdebug \
+    kangos_miatoll-eng
